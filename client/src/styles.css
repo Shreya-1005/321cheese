@@ -1,0 +1,8 @@
+/* minimal styling to augment Tailwind */
+body { -webkit-font-smoothing: antialiased; }
+
+/* make canvas crisp */
+canvas { background: white; display: block; }
+
+/* center app container */
+#root > div { max-width: 900px; }
